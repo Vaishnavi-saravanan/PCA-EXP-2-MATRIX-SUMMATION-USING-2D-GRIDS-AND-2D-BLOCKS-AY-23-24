@@ -255,4 +255,4 @@ return (0);
 
 ## RESULT:
 The host took 22.500000 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.000000 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
-The host took _________ seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in ________ seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 22.50000 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in  seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
